@@ -10,25 +10,25 @@ Processing es una herramienta fantástica para explorar gráficos, animaciones y
 
 Aquí tienes los juegos incluidos en este repositorio, cada uno con su propio código fuente en Processing (Java) y su carpeta correspondiente:
 
-- 🔳 [3 En Raya]
+- 🔳 3 En Ralla  
   Versión digital del clásico juego de estrategia para dos jugadores.
 
-- 🐦 [Flappy Bird] 
+- 🐦 Flappy Bird  
   Adaptación del famoso juego de habilidad, con mecánica de salto y obstáculos.
 
-- 💠 [Juego De La Vida]
+- 💠 Juego De La Vida  
   Implementación del autómata celular de Conway. Generación de patrones vivos y evolución en tiempo real.
 
-- 👻 [PacMan]  
+- 👻 PacMan  
   Recreación del legendario arcade donde el jugador recoge puntos mientras evita fantasmas.
 
-- 🏓 [Pong Game] 
+- 🏓 PongGame  
   Simulación del clásico juego de tenis de dos jugadores. Incluye física básica de rebote.
 
-- 🐍 [Snake Game]
+- 🐍 SnakeGame  
   Juego en el que controlas una serpiente que crece al comer, evitando chocar contra sí misma.
 
-- 🧱 [Tetris]
+- 🧱 Tetris  
   Versión jugable del icónico juego de bloques, con rotaciones, caída automática y líneas eliminables.
 
 ---
